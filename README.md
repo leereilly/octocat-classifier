@@ -1,1 +1,1 @@
-# octocat-classifier
+# Octocat Classifier
